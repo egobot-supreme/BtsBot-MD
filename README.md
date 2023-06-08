@@ -142,5 +142,4 @@ npm start
 # `🌟✨ CREADOR ✨🌟`
 [![egobot-supreme](https://github.com/egobot-supreme.png?size=100)](https://github.com/egobot-supreme) 
   
-![Snake animation](https://github.com/egobot-supreme/egobot-supreme/blob/output/github-contribution-grid-snake.svg)
-</div>
+
